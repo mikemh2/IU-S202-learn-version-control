@@ -34,5 +34,11 @@
     "scientificName": "Okapia johnstoni",
     "habitat": "Tropical rainforests of the northeastern and central Democratic Republic of the Congo",
     "description": "A forest-dwelling hoofed mammal and the only living relative of the giraffe in the family Giraffidae."
+  },
+  {
+    "commonName": "Jaguar",
+    "scientificName": "Panthera onca",
+    "habitat": "Tropical, subtropical, wetlands, and wooded regions across the Americas",
+    "description": "The largest cat in the Americas and the third largest cat in the world, after the tiger and the lion."
   }
 ]
