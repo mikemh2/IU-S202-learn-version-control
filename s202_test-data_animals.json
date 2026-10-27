@@ -28,5 +28,11 @@
     "scientificName": "Macropus rufus",
     "habitat": "Australian deserts and open grasslands",
     "description": "The largest marsupial, using powerful hind legs for hopping and a strong tail for balance."
+  },
+  {
+    "commonName": "Okapi",
+    "scientificName": "Okapia johnstoni",
+    "habitat": "Tropical rainforests of the northeastern and central Democratic Republic of the Congo",
+    "description": "A forest-dwelling hoofed mammal and the only living relative of the giraffe in the family Giraffidae."
   }
 ]
